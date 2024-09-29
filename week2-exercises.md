@@ -1,3 +1,9 @@
+
+
+### Quiz Score Screenshot
+
+![Quiz Score](score_quiz.jpg)
+
 # Week 2 Exercises
 
 ### Assignment 1
